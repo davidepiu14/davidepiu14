@@ -1,19 +1,16 @@
-### Hi there 👋
+### Hey, I'm Davide !
 
-<!--
-**davidepiu14/davidepiu14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What I'm working on 👨‍💻
 
-Here are some ideas to get you started:
+[λ: moclojer](https://github.com/davidepiu14/django-ml-runner) - Django Wapp to run asynchronous tasks and launch scripts />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Find me elsewhere 🌎
+
+[🚀: Site](https://avelino.run) <br>
+[🐦: Twitter](https://twitter.com/94Piu) <br>
+[💼: LinkedIn](https://www.linkedin.com/in/davide-piu-0ab5a1109/) <br>
+[📸: Instagram](https://www.instagram.com/piu.davide/)
 
 ![](https://komarev.com/ghpvc/?username=davidepiu14)
 
