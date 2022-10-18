@@ -2,7 +2,7 @@
 
 ### What I'm working on 👨‍💻
 
-[λ: moclojer](https://github.com/davidepiu14/django-ml-runner) - Django Wapp to run asynchronous tasks and launch scripts />
+[django-ml-runner](https://github.com/davidepiu14/django-ml-runner) - Django Wapp to run asynchronous tasks and launch scripts />
 
 
 ### Find me elsewhere 🌎
