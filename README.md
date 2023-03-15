@@ -6,5 +6,4 @@
 [💼: LinkedIn](https://www.linkedin.com/in/davide-piu-0ab5a1109/) <br>
 [📸: Instagram](https://www.instagram.com/piu.davide/)
 
-![](https://komarev.com/ghpvc/?username=davidepiu14)
 
